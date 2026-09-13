@@ -1,0 +1,1 @@
+Script to press the spacebar repeatedly: modify the value inside the brackets {1..90} specifically the number 90 (the spacebar will be pressed 90 times do not exceed this figure, or it won't work). (This script is irrelevant I don't know what you wanted it for.)
